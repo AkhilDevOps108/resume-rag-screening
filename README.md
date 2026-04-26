@@ -28,7 +28,6 @@ Current pipeline:
 
 ![Frontend UI](docs/images/frontend-ui.png)
 
-Place your screenshot at `docs/images/frontend-ui.png` to render it in this section.
 
 ## Project Structure
 
